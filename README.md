@@ -14,7 +14,9 @@ Gráficas de alta calidad: Las gráficas incluyen etiquetas, límites ajustados 
 ### Estructura del Repositorio
 
 ├── Graficador_IR.py       # Script principal para cargar y graficar datos
+
 ├── Datos-SFDA.csv         # Archivo de datos espectrales (ejemplo)
+
 ├── README.md              # Documentación del proyecto
 
 ### Contribuciones
